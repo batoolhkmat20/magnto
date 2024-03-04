@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="3" total="5" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-02T17:18:59 CET" name="Default suite" finished-at="2024-02-02T17:19:20 CET" duration-ms="20235">
+    <groups>
+    </groups>
+    <test started-at="2024-02-02T17:18:59 CET" name="Default test" finished-at="2024-02-02T17:19:20 CET" duration-ms="20235">
+      <class name="magento.test1">
+        <test-method is-config="true" signature="sutup()[pri:0, instance:magento.test1@319988b0]" started-at="2024-02-02T17:18:59 CET" name="sutup" finished-at="2024-02-02T17:19:04 CET" duration-ms="4251" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sutup -->
+        <test-method signature="addite()[pri:1, instance:magento.test1@319988b0]" started-at="2024-02-02T17:19:04 CET" name="addite" finished-at="2024-02-02T17:19:13 CET" duration-ms="9685" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addite -->
+        <test-method signature="hoieolor()[pri:2, instance:magento.test1@319988b0]" started-at="2024-02-02T17:19:13 CET" name="hoieolor" finished-at="2024-02-02T17:19:20 CET" duration-ms="6148" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hoieolor -->
+        <test-method is-config="true" signature="enftest()[pri:0, instance:magento.test1@319988b0]" started-at="2024-02-02T17:19:20 CET" name="enftest" finished-at="2024-02-02T17:19:20 CET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enftest -->
+      </class> <!-- magento.test1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
